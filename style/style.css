@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:700&display=swap');
+
+body {
+    font-family: 'Quicksand', 'San Serif';
+    text-align: center;
+    font-size: 25px;
+}
+
+.input {
+    font-family: Quicksand, San Serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.button { 
+    background-color: 
+    white; border: none; 
+    color: black; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-family: Quicksand, San Serif; 
+}
