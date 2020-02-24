@@ -1,4 +1,4 @@
-# openweathermapAPI
+# OpenWeatherMapAPI
 simple site created using the API "Current weather data" of OpenWeatherMap, jQuery and HTML
 
 ## Documentation
